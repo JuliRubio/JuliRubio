@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuliRubio
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me julietamrubio@gmail.com
